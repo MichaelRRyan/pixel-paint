@@ -1,0 +1,13 @@
+
+# Godot-specific ignores
+.import/
+export.cfg
+export_presets.cfg
+
+# Project specific ignores
+builds/
+android/
+
+# Mono-specific ignores
+.mono/
+data_*/
